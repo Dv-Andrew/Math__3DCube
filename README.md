@@ -1,1 +1,1 @@
-# Math__3DCube
+# 3D-cube
